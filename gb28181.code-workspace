@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "name": "Workspace",
+      "path": "."
+    },
+    {
+      "name": "Hub",
+      "path": "gb28181-hub"
+    },
+    {
+      "name": "Lab",
+      "path": "gb28181-lab"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.local": true
+    },
+    "search.exclude": {
+      "**/docs/standards/**/images": true
+    }
+  }
+}

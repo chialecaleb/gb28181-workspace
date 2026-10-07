@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "repositories": [
+    {
+      "path": "gb28181-hub",
+      "url": "https://github.com/chialecaleb/gb28181-hub.git",
+      "branch": "main"
+    },
+    {
+      "path": "gb28181-lab",
+      "url": "https://github.com/chialecaleb/gb28181-lab.git",
+      "branch": "main"
+    }
+  ]
+}

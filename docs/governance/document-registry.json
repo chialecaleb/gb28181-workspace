@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "documents": [
+    {
+      "path": ".github/PULL_REQUEST_TEMPLATE.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "问题与结果",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "AGENTS.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "GB28181 工作区 Agent 入口",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "CLAUDE.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "CLAUDE",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "工作区开发指南",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/decisions/0001-three-repositories.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "ADR-0001 三仓库与最新实现",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/delivery/status.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "当前状态",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/design.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "工作区组织设计",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/dev-rules/communication.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "沟通与用户事项",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/dev-rules/development-workflow.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "Agent 开发流程",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/dev-rules/git-and-github.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "Git 与 GitHub 协作",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/dev-rules/quality-gates.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "质量门禁",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/evidence/foundation.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "基础建设验证报告",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/governance/documentation-policy.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "文档治理",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/integration/environment.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "联调环境约定",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/integration/scenarios.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "联调场景目录",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/integration/workflow.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "跨项目开发与联调流程",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/README.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "工作区文档导航",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/requirements.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "工作区需求",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/standards/README.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "GB28181 共享标准资料",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/templates/agent-handoff.md",
+      "kind": "template",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "开发交接模板",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "docs/templates/validation-report.md",
+      "kind": "template",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "验证报告模板",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "README.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "GB28181 Workspace",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "REVIEW.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "工作区评审",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "SECURITY.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "安全与报告",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    },
+    {
+      "path": "USER-ACTIONS.md",
+      "kind": "document",
+      "status": "active",
+      "owner": "当前维护者",
+      "scope": "用户事项唯一清单",
+      "reviewed": "2026-10-07",
+      "basis": "2026-10-07 三仓库基础建设；结构与内容自审，不代表产品验收"
+    }
+  ]
+}
